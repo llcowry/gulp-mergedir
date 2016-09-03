@@ -3,13 +3,13 @@
 Merge code by directory.
 
 
-### 安装
+### Install
 
 ``` bash
 $ npm install gulp-mergedir
 ```
 
-### 实例
+### Example
 
 ``` js
 var gulp = require('gulp');
