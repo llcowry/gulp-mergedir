@@ -6,7 +6,7 @@ Merge code by directory.
 ### Install
 
 ``` bash
-$ npm install gulp-mergedir
+$ npm install gulp-mergedir --save-dev
 ```
 
 ### Example
