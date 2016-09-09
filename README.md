@@ -9,7 +9,7 @@ Merge code by directory.
 $ npm install gulp-mergedir --save-dev
 ```
 
-### Example
+### Usage
 
 ``` js
 var gulp = require('gulp');
