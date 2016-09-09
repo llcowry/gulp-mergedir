@@ -1,6 +1,6 @@
 # gulp-mergedir
 
-Merge code by directory.
+gulp-mergedir is a gulp plugin to merge code by directory.
 
 
 ### Install
